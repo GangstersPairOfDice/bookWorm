@@ -21,3 +21,8 @@ to be read in a "new" way.                           
 <br />
 
 Hence the name bookWorm.
+
+TODO:
+ - Add support for punctuation
+ - Implement user-friendly react website
+ - Host
