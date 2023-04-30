@@ -8,13 +8,24 @@ The first idea being developed is to make a sort of space-filling curve from tex
 
 Example:
 
-This is my very own custom                  >───────────────
-example sentence that is meant      ->      >───────────────
-to be read "normally".                      >───────────────
+This is my very own custom
+example sentence that is meant
+to be read "normally".
 
-This is my very own custom                  >──────────────┐
-example sentece that is meant       ->      ┌──────────────┘
-to be read in a "new" way.                  └──────────────
+Can be read:
 
+>───────────────
+>───────────────
+>───────────────
+
+This is my very own custom
+example sentece that is meant
+to be read in a "new" way.
+
+Can be read:
+
+>──────────────┐
+┌──────────────┘
+└──────────────
 
 Hence the name bookWorm.
