@@ -24,7 +24,7 @@ Hence the name bookWorm.
 
 <br />
 
-**Usage:**
+## Usage
 
 Program has one function with two parameters, *text* and *n*:
 >bookWorm(text, n)
@@ -32,7 +32,7 @@ Program has one function with two parameters, *text* and *n*:
 The *text* parameter is where you enter your string.
 The *n* parameter is used to specify how many columns (using the amount of spaces between words in your text) you want before it switches to the next row.
 
-**toDo:**
+## toDo
  - Add support for punctuation
  - Implement user-friendly react website
  - Host
