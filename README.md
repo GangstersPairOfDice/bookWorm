@@ -1,5 +1,7 @@
 # bookWorm
 
+Ever get tired of reading? Think books suck? This might be the repo for you!!)
+
 This project aims at finding new and innovative ways to read books.
 
 The main idea is to help reduce eye-stress from reading by creating a system which allows for a more natural flow of receiving information from text.
